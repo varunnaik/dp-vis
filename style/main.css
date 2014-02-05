@@ -1,0 +1,7 @@
+.box {
+	stroke: #999;
+	stroke-width: 1px;
+	fill: #ffffff;
+	shape-rendering:crispEdges;
+}
+
