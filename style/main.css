@@ -4,4 +4,8 @@
 	fill: #ffffff;
 	shape-rendering:crispEdges;
 }
-
+.label {
+	font-family: sans-serif;
+	font-size: 14px;
+	
+}
